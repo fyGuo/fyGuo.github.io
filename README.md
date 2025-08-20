@@ -8,7 +8,7 @@ I got my master's degree from Harvard University, advised by [Professor Molin Wa
 My research focuses on developling statistical methods in modern causal inference and applied the tools to real-world health studies. My current theoretical work is to understand structural nested models in target trial emulation. My applied work involves research in cancer, environmental health, and hearing loss.
 
 ## [Google Scholar link](https://scholar.google.com/citations?user=uECVOrYAAAAJ&hl=en) 
-## [CV]
+## [CV](https://github.com/fyGuo/fyGuo.github.io/blob/main/FuyuGuo_CV_June02.pdf)
 ## Research
 
 ## Theoretical work
