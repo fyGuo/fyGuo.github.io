@@ -9,6 +9,15 @@ My research focuses on developling statistical methods in modern causal inferenc
 
 ## [Google Scholar link](https://scholar.google.com/citations?user=uECVOrYAAAAJ&hl=en) 
 ## [CV](https://github.com/fyGuo/fyGuo.github.io/blob/main/FuyuGuo_CV_June02.pdf)
-## Research
 
-## Theoretical work
+## Research
+### Theorey
+1. Structrual nested target trial emulation model. (working paper)
+2. Susceptible-time window models in latency analysis. (working paper)
+3. New Quadratic Discriminant Analysis Algorithms for Correlated Audiometric Data. Statistics in medicine, 43(29), pp.5473-5483.
+4. Comparison between inverse-probability weighting and multiple imputation in Cox model with missing failure subtype. Statistical methods in medical research, 33(2), pp.344-356.
+
+### Applications
+1. Evaluating recommendation-based dietary and physical activity strategies for prostate cancer prevention: a target trial emulation in the Health Professionals Follow-up Study. American journal of epidemiology, 194(2), pp.449-459.
+2. Urban greenness and survival in lung cancer patients: A registry-based cohort study in Beijing. Ecotoxicology and Environmental Safety, 228, p.113042.
+
