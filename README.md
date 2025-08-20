@@ -21,3 +21,5 @@ My research focuses on developling statistical methods in modern causal inferenc
 1. Evaluating recommendation-based dietary and physical activity strategies for prostate cancer prevention: a target trial emulation in the Health Professionals Follow-up Study. American journal of epidemiology, 194(2), pp.449-459.
 2. Urban greenness and survival in lung cancer patients: A registry-based cohort study in Beijing. Ecotoxicology and Environmental Safety, 228, p.113042.
 
+## Awards
+1. Best student presentation in 2025 European Causal Inference Meeting, April, 2025, Belgium for "Structrual nested target trial emulation model".
