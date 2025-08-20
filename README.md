@@ -1,5 +1,4 @@
 
-# Fuyu Guo (郭付羽)
 
 ## Brief Introduction
 I am a 3rd-year PhD student in the Department of Epidemiology at Harvard T.H. Chan School of Public Health, advised by  [Professor James Robins](https://hsph.harvard.edu/profile/james-m-robins/).
